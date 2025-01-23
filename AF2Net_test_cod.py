@@ -28,13 +28,13 @@ elif opt.gpu_id=='1':
 
 #load the model
 model = AF2Net()
-model.load_state_dict(torch.load('../AF2Net_epoch_XXX.pth'))  ## weight path
+model.load_state_dict(torch.load('../AF2Net_epoch_*************.pth'))  ## weight path
 model.cuda()
 model.eval()
 
 test_datasets = ['NC4K']
 for dataset in test_datasets:
-    save_path = './test_maps/XXXXX/' + dataset + '/'
+    save_path = './test_maps/**********/' + dataset + '/'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     image_root = dataset_path + dataset + '/Imgs/'
