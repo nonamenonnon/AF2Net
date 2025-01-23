@@ -15,7 +15,7 @@ You can find the training and test datasets at the following links
 
 https://github.com/*******/******/  Link temporarily blocked to comply with double-blind submission policy
 
-You can find the pre-trained SMT-t weights at the following link
+You can find the pre-trained SMT-S weights at the following link
 
 https://github.com/********/SMT  
 Link temporarily blocked to comply with double-blind submission policy
