@@ -25,7 +25,7 @@ We thank them for their contributions.
 
 ## Subject to the double-blind policy, links to the forecast results and training weights will be made public after the review!!
 
-## Adaptive feature feature motivation
+## Adaptive feature fusion motivation
 
 ![image](https://github.com/user-attachments/assets/39afd7c7-bdd9-48ff-b0a9-3492d171ad6e)
 
